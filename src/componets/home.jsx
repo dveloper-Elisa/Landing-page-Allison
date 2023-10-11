@@ -58,7 +58,7 @@ export default function Navigation() {
               "
               >
                 <img
-                  src="./public/photo/kelogo.JPG"
+                  src="./photo/kelogo.JPG"
                   alt=""
                   className="-rotate-[40deg] md:w-[12rem] md:h-[12rem] rounded-[50%] border-[3px] border-blue-950 shadow-blue-600 shadow-inner absolute md:top-[5px] md:left-[8px]
                   w-[6rem] h-[6rem] top-[3px] left-[4px]
